@@ -2,6 +2,8 @@
 
 ## Overview of Project
 
+## Other Coment
+
 ### Background
 
 - A recent graduate is analyzing a set of green energy oriented companies stocks for his first clients and needs a basic tool to quickly analyze their historical performance.
